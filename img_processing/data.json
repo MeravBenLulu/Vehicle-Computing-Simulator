@@ -1,0 +1,12 @@
+[
+    {
+        "path": "../tests/images/close_cars.mov",
+        "focal_length": 1500,
+        "is_travel": true
+    },
+    {
+        "path": "../tests/images/sun_in_street2.mov",
+        "focal_length": 2000,
+        "is_travel": true
+    }
+]
